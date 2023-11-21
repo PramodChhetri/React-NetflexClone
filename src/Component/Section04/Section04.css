@@ -1,0 +1,50 @@
+.fourthSection {
+  background-color: #000;
+  margin-top: 0.5rem;
+}
+
+.fourth {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  max-width: 75vw;
+  margin: auto;
+  padding: 5rem 0;
+}
+
+.fourthDes {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
+.fourthDes > :nth-child(1) {
+  font-size: 48px;
+  font-weight: 900;
+}
+
+.fourthDes > :nth-child(2) {
+  font-size: 24px;
+  font-weight: 500;
+}
+
+.fourthImg {
+  position: relative;
+}
+
+.fourthImg img {
+  width: 55vw;
+  position: relative;
+  z-index: 10;
+}
+
+.fourthImg video {
+  position: absolute;
+  top: 60px;
+  left: 105px;
+  width: 24vw;
+  height: auto; 
+  object-fit: cover;
+  z-index: 1;
+}

@@ -1,0 +1,45 @@
+.thirdSection {
+    background-color: #000;
+    margin-top: 0.5rem;
+  }
+  
+  .third {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    max-width: 75vw;
+    margin: auto;
+    padding: 5rem 0;
+  }
+  
+  .thirdDes {
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+  }
+
+  .thirdDes> :nth-child(1){
+    font-size: 48px;
+    font-weight: 900;
+  }
+
+  .thirdDes> :nth-child(2){
+    font-size: 24px;
+    font-weight: 500;
+  }
+  
+  .thirdImg {
+    position: relative;
+  }
+  
+  .thirdImg img {
+    width: 55vw;
+    position: relative;
+    z-index: 10;
+  }
+  
+
+
+  
+  
