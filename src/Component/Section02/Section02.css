@@ -34,7 +34,7 @@
   }
   
   .secImg img {
-    width: 55vw;
+    width: 555px;
     position: relative;
     z-index: 10;
   }
@@ -47,4 +47,8 @@
   }
 
   
-  
+  @media screen and (max-width: 780px) {
+    .second{
+    flex-wrap: wrap;
+    }
+  }

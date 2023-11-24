@@ -42,4 +42,8 @@
 
 
   
-  
+  @media screen and (max-width: 780px) {
+    .third{
+    flex-wrap: wrap;
+    }
+  }

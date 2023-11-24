@@ -41,5 +41,9 @@
   
 
 
-  
+  @media screen and (max-width: 780px) {
+    .fifth{
+    flex-wrap: wrap;
+    }
+  }
   
