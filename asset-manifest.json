@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/React-NetflexClone/static/css/main.75b797e6.css",
+    "main.js": "/React-NetflexClone/static/js/main.953cfcb6.js",
+    "static/js/787.9282c67d.chunk.js": "/React-NetflexClone/static/js/787.9282c67d.chunk.js",
+    "static/media/bg.jpg": "/React-NetflexClone/static/media/bg.fd168582ba31d92be164.jpg",
+    "static/media/video-tv.m4v": "/React-NetflexClone/static/media/video-tv.053994fc9a5da7a97b5b.m4v",
+    "static/media/video4.m4v": "/React-NetflexClone/static/media/video4.b27bb59e747d5b567095.m4v",
+    "static/media/kids.png": "/React-NetflexClone/static/media/kids.6fd4253559d520f03d4d.png",
+    "static/media/device-pile.png": "/React-NetflexClone/static/media/device-pile.8e6539e8bfc6937a0648.png",
+    "static/media/mobile.jpg": "/React-NetflexClone/static/media/mobile.063578d5b6d5ab4155ec.jpg",
+    "static/media/tv.png": "/React-NetflexClone/static/media/tv.0049bc70babc1f94cf88.png",
+    "static/media/logo.svg": "/React-NetflexClone/static/media/logo.7fe833cd6e8bc9e3f5cf4c6ff456d4c5.svg",
+    "index.html": "/React-NetflexClone/index.html",
+    "main.75b797e6.css.map": "/React-NetflexClone/static/css/main.75b797e6.css.map",
+    "main.953cfcb6.js.map": "/React-NetflexClone/static/js/main.953cfcb6.js.map",
+    "787.9282c67d.chunk.js.map": "/React-NetflexClone/static/js/787.9282c67d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75b797e6.css",
+    "static/js/main.953cfcb6.js"
+  ]
+}
